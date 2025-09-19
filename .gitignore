@@ -1,0 +1,51 @@
+# Gradle build output
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Android Studio project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Android Studio cache and misc
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/httpRequests/
+
+# Native build artifacts
+.externalNativeBuild/
+.cxx/
+ndkBuild/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# APKs and compiled artifacts
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Keystore files (used for signing APKs)
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Captures and output
+captures/
+output.json
